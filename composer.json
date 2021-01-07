@@ -1,0 +1,22 @@
+{
+    "name": "yamunarani/hello-composer",
+    "description": "My first packagist package",
+    "type": "package",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "yamunarani",
+            "email": "yamunsk@yahoo.co.in"
+            
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ourcodeworld\\HelloComposer\\": "src/"
+        }
+    }
+}
