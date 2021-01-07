@@ -1,5 +1,5 @@
 {
-    "name": "yamunarani/hello-composer",
+    "name": "yamuna/hello-composer",
     "description": "My first packagist package",
     "type": "package",
     "require": {
